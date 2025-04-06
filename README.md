@@ -109,9 +109,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Anthropic for the Claude AI model
 - The Model Context Protocol specification
-
----
-
-<div align="center">
-Made with ❤️ by [htondro](https://linkedin.com/in/htondro)
-</div> 
