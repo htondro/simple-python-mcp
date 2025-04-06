@@ -8,10 +8,10 @@
 
 A robust implementation of the Model Context Protocol (MCP) that enables AI models to interact with external tools and services through a standardized protocol.
 
-[Installation](#installation) •
-[Usage](#usage) •
-[How It Works](#how-it-works) •
-[Contributing](#contributing)
+[Installation](#-installation) •
+[Usage](#-usage) •
+[How It Works](#-how-it-works) •
+[Contributing](#-contributing)
 
 </div>
 
