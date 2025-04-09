@@ -1,5 +1,5 @@
 """
-A chatbot implementation using Anthropic's Claude API with a custom MCP (Model Control Protocol) server.
+A chatbot implementation using Anthropic's Claude API with a custom MCP (Model Context Protocol) server.
 This module provides functionality to interact with Claude and execute various tools through an MCP server.
 """
 
@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 class MCPClient:
     """
-    A client for interacting with the MCP (Model Control Protocol) server.
+    A client for interacting with the MCP (Model Context Protocol) server.
     Handles JSON-RPC communication with the server for tool execution and initialization.
     """
 
